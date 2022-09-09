@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/drunken-ui/static/css/main.0d87a747.css",
-    "main.js": "/drunken-ui/static/js/main.2bac382d.js",
+    "main.js": "/drunken-ui/static/js/main.f4b813c8.js",
     "polyfills-dom.js": "/drunken-ui/static/js/polyfills-dom.6e07271a.chunk.js",
     "polyfills-core-js.js": "/drunken-ui/static/js/polyfills-core-js.fb52ee47.chunk.js",
     "static/js/269.e7e81619.chunk.js": "/drunken-ui/static/js/269.e7e81619.chunk.js",
@@ -25,7 +25,7 @@
     "static/media/open-sans-v15-latin-regular.woff2": "/drunken-ui/static/media/open-sans-v15-latin-regular.ec806460121999bcfb12.woff2",
     "index.html": "/drunken-ui/index.html",
     "main.0d87a747.css.map": "/drunken-ui/static/css/main.0d87a747.css.map",
-    "main.2bac382d.js.map": "/drunken-ui/static/js/main.2bac382d.js.map",
+    "main.f4b813c8.js.map": "/drunken-ui/static/js/main.f4b813c8.js.map",
     "polyfills-dom.6e07271a.chunk.js.map": "/drunken-ui/static/js/polyfills-dom.6e07271a.chunk.js.map",
     "polyfills-core-js.fb52ee47.chunk.js.map": "/drunken-ui/static/js/polyfills-core-js.fb52ee47.chunk.js.map",
     "269.e7e81619.chunk.js.map": "/drunken-ui/static/js/269.e7e81619.chunk.js.map",
@@ -36,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.0d87a747.css",
-    "static/js/main.2bac382d.js"
+    "static/js/main.f4b813c8.js"
   ]
 }
